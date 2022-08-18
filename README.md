@@ -17,3 +17,8 @@
 
 支持npm下载
 
+# 用法
+
+yarn install
+yarn dev
+yarn build
