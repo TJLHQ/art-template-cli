@@ -17,6 +17,8 @@
 
 支持npm下载
 
+支持web-dev-server热更新
+
 # 用法
 
 yarn install
