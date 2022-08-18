@@ -3,7 +3,7 @@
 
 使用webpack5搭建工程
 
-使用art-template模板
+使用art-template模板语法
 
 支持es6语法
 
@@ -14,4 +14,6 @@
 支持组件化
 
 支持模块化
+
+支持npm下载
 
